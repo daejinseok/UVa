@@ -1,5 +1,4 @@
-# UVa
-나의 UVa 풀이
+# 나의 UVa 풀이
 
 - a.cpp - answer
 - b.bat - build
