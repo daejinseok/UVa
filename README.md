@@ -11,6 +11,14 @@
 - t.txt - temporary 실행 시켜 나온 임시 결과 값
 
 
+### 1장
+- 11172 - Relational Operator
+- 11498 - Division of Nlogonia
+- 11727 - Cost Cutting
+- 10114 - Loansome Car Buyer
+- 11559 - Event Planning
+
+
 ### 참고 링크
 
 - http://www.insightbook.co.kr/archives/11923
